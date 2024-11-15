@@ -5,7 +5,7 @@ This repo achieved highly efficient and accurate multi-target tracking through t
 
 <div align=center><img src="https://github.com/Kotka334/MOT/blob/86096a052f173d905650074c9184239d72234a40/out.gif"></div>
 
- ## Data Presentation
+ ## Performance
 
 <div align="center">
 
