@@ -3,7 +3,7 @@
 
 This repo achieved highly efficient and accurate multi-target tracking through the selection of the tracker (ByteTrack) and in combination with the target detection model (YOLOv8)[YOLOv8](https://github.com/ultralytics)
 
-![image]([https://github.com/user-attachments/out.gif](https://github.com/Kotka334/MOT/blob/main/out.gif))
+![image]([https://github.com/user-attachments/out.gif](https://github.com/Kotka334/MOT/out.gif))
 
  
 <div align="center">
