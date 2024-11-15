@@ -50,3 +50,6 @@ Run the program
 
 ## Bytetrack
 [BYTETrack: Multi-Object Tracking by Associating Every Detection Box](https://arxiv.org/abs/2110.06864) is a paper presented at ECCV2022 by Yifu Zhang et al. Thanks to its universal framework and relative simplicity, it has been adopted by many subsequent researchers for their MOT trackers (Bot-SORT, SMILEtrack).
+
+## Demo Link
+![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/XZ4otM8r0nM)
