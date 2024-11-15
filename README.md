@@ -1,7 +1,11 @@
 # MOT with ByteTrack
 ## Introduction
 
-This repo contains a collections of pluggable state-of-the-art multi-object trackers for segmentation, object detection and pose estimation models. For the methods using appearance description, both heavy ([CLIPReID](https://arxiv.org/pdf/2211.13977.pdf)) and lightweight state-of-the-art ReID models ([LightMBN](https://arxiv.org/pdf/2101.10774.pdf), [OSNet](https://arxiv.org/pdf/1905.00953.pdf) and more) are available for automatic download. We provide examples on how to use this package together with popular object detection models such as: [YOLOv8, YOLOv9 and YOLOv10](https://github.com/ultralytics)
+This repo achieved highly efficient and accurate multi-target tracking through the selection of the tracker (ByteTrack) and in combination with the target detection model (YOLOv8)[YOLOv8](https://github.com/ultralytics)
+![image](https://github.com/user-attachments/assets/100ab7e5-096a-43a8-ac40-338ffb088000)
+![image](https://github.com/user-attachments/assets/e53b3a5b-b8ce-4614-9018-68a644c3bfe8)
+![image](https://github.com/user-attachments/assets/4f3cfee0-13a7-40bb-bc3c-0b1a2acc4dae)
+ 
 
 <div align="center">
 
@@ -14,7 +18,6 @@ This repo contains a collections of pluggable state-of-the-art multi-object trac
 | [ocsort](https://arxiv.org/abs/2203.14360) | ✅ | 65.187 | 74.819 | 75.957 |
 | [imprassoc](https://openaccess.thecvf.com/content/CVPR2023W/E2EAD/papers/Stadler_An_Improved_Association_Pipeline_for_Multi-Person_Tracking_CVPRW_2023_paper.pdf) | ✅ | 64.096 | 76.511 | 71.875 |
 | [deepocsort](https://arxiv.org/abs/2302.11813) | ✅ | 62.913 | 74.483 | 73.459 |
-| [hybridsort](https://arxiv.org/abs/2308.00783) | ❌ |  |  |  |
 
 <!-- END TRACKER TABLE -->
 
